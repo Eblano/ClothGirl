@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 1f6f11069c8c3ee4fb43d6a0cf379f07
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: creature sprite 1_0
+    21300002: creature sprite 1_1
+    21300004: creature sprite 1_2
+    21300006: creature sprite 1_3
+    21300008: creature sprite 1_4
+    21300010: creature sprite 1_5
+    21300012: creature sprite 1_6
+    21300014: creature sprite 1_7
+    21300016: creature sprite 1_8
+    21300018: creature sprite 1_9
+    21300020: creature sprite 1_10
+    21300022: creature sprite 1_11
+    21300024: creature sprite 1_12
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: creature sprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 1255.149
+        y: 5783.9424
+        width: 1309.9999
+        height: 846.4756
+      alignment: 9
+      pivot: {x: 0.49568787, y: 0.49624303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837cb66e4b8aa544b9df842bcb2719e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 2673.121
+        y: 4395.754
+        width: 2929.6719
+        height: 2429.246
+      alignment: 9
+      pivot: {x: 0.49882, y: 0.50169706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f9685d81233374f8a3dfa612060164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 5723.201
+        y: 4215.645
+        width: 2396.8853
+        height: 2316.9668
+      alignment: 9
+      pivot: {x: 0.4995228, y: 0.49735498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e42c477af20dc3428894e0adcbd55f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 8681.467
+        y: 5747.2383
+        width: 707.9512
+        height: 574.7544
+      alignment: 9
+      pivot: {x: 0.49301875, y: 0.49457943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f41469a7b2ba73458de35c265ef49be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_4
+      rect:
+        serializedVersion: 2
+        x: 9644.382
+        y: 5923.418
+        width: 585.41016
+        height: 420.2456
+      alignment: 9
+      pivot: {x: 0.49814332, y: 0.49157336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f896005003a7f95479d7e5a52f99638b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_5
+      rect:
+        serializedVersion: 2
+        x: 387.00513
+        y: 3673.779
+        width: 1587.0491
+        height: 2013.2781
+      alignment: 9
+      pivot: {x: 0.498091, y: 0.4985506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa83259ff318ff84e84cc69f86680425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_6
+      rect:
+        serializedVersion: 2
+        x: 8404.634
+        y: 4255
+        width: 1134.1309
+        height: 1038.2788
+      alignment: 9
+      pivot: {x: 0.49762, y: 0.49697632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6314616771b49b7448bdf1f459090c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_7
+      rect:
+        serializedVersion: 2
+        x: 9459.588
+        y: 4532.0005
+        width: 104.99609
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5039529, y: 0.4999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989709cecdb58648bde61c67cebfd26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_8
+      rect:
+        serializedVersion: 2
+        x: 9874.569
+        y: 4335
+        width: 1036.4307
+        height: 899.7544
+      alignment: 9
+      pivot: {x: 0.5026199, y: 0.49680224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1791dce7b28745547b38f84dd026b330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4123.263
+        height: 3793.1147
+      alignment: 9
+      pivot: {x: 0.49899796, y: 0.49893028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889fc68eec07eff43b92a0a2d5dfb6de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_10
+      rect:
+        serializedVersion: 2
+        x: 4259.311
+        y: 2630.0415
+        width: 1347.2949
+        height: 1144.8359
+      alignment: 9
+      pivot: {x: 0.49817523, y: 0.49741495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7edf9db583911943ab02db7fc323c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_11
+      rect:
+        serializedVersion: 2
+        x: 6337.92
+        y: 2248.3035
+        width: 1272.7046
+        height: 1475.1638
+      alignment: 9
+      pivot: {x: 0.49585745, y: 0.49533245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e39299ecd10e514f913927705743ec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature sprite 1_12
+      rect:
+        serializedVersion: 2
+        x: 4632.9185
+        y: 1915.9838
+        width: 979.67236
+        height: 366.96716
+      alignment: 9
+      pivot: {x: 0.4971882, y: 0.49191386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0873194494a5b2e4aac199d039bac63c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7acdbe01e03b05d4d9cb13c735dae598
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 636684874788042849
+  assetBundleName: 
+  assetBundleVariant: 

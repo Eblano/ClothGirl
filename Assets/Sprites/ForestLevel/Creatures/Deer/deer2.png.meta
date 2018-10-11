@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 4c9a05cbb2c55c04ba071ff13903bcef
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deer2_0
+    21300002: deer2_1
+    21300004: deer2_2
+    21300006: deer2_3
+    21300008: deer2_4
+    21300010: deer2_5
+    21300012: deer2_6
+    21300014: deer2_7
+    21300016: deer2_8
+    21300018: deer2_9
+    21300020: deer2_10
+    21300022: deer2_11
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deer2_0
+      rect:
+        serializedVersion: 2
+        x: 4072.5957
+        y: 2128.5146
+        width: 859.7095
+        height: 1208.2346
+      alignment: 9
+      pivot: {x: 0.5018024, y: 0.49823567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a080ba32a1938044783f8254dffd7080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_1
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 2994.6484
+        width: 194.34375
+        height: 202.96216
+      alignment: 9
+      pivot: {x: 0.49139985, y: 0.49443486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba500e3b9109e44ca184366264739a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_2
+      rect:
+        serializedVersion: 2
+        x: 129.00002
+        y: 178.97841
+        width: 2043.542
+        height: 2786.352
+      alignment: 9
+      pivot: {x: 0.49937806, y: 0.49922684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9272ae4229b4e459b482ce714d53ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_3
+      rect:
+        serializedVersion: 2
+        x: 2394.651
+        y: 1990.5936
+        width: 1309.0476
+        height: 868.3507
+      alignment: 9
+      pivot: {x: 0.49910244, y: 0.48702255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81d7d0bdedfe394bb3198e273a3d708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_4
+      rect:
+        serializedVersion: 2
+        x: 5164.3184
+        y: 2492.3406
+        width: 260.5923
+        height: 280.75488
+      alignment: 9
+      pivot: {x: 0.49380636, y: 0.49744257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a322a22cc88d7de4e846378de3247d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_5
+      rect:
+        serializedVersion: 2
+        x: 4528.492
+        y: 1748.7042
+        width: 588.9546
+        height: 300.91736
+      alignment: 9
+      pivot: {x: 0.49241117, y: 0.49945864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f5fd2e851fa20439a5e122a502eb8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_6
+      rect:
+        serializedVersion: 2
+        x: 5220.4478
+        y: 1774.3816
+        width: 390.20898
+        height: 217.38672
+      alignment: 9
+      pivot: {x: 0.49217793, y: 0.4950551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a365ee3a3d9b4590c25bee0ae1b91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_7
+      rect:
+        serializedVersion: 2
+        x: 2335.6982
+        y: 846.5974
+        width: 623.5193
+        height: 914.4365
+      alignment: 9
+      pivot: {x: 0.49685994, y: 0.4991081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f954fbe4ee3b964d8fbcb6a8cb03fd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_8
+      rect:
+        serializedVersion: 2
+        x: 3061.8455
+        y: 948.3322
+        width: 214.50635
+        height: 709.93024
+      alignment: 9
+      pivot: {x: 0.4972104, y: 0.49887687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a56c5fbeae0078419440f64a38cc066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_9
+      rect:
+        serializedVersion: 2
+        x: 3406.0417
+        y: 1341.3663
+        width: 300.91748
+        height: 370.0464
+      alignment: 9
+      pivot: {x: 0.4983376, y: 0.4989477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb220712480ebe498253633f11d4f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_10
+      rect:
+        serializedVersion: 2
+        x: 4056.1162
+        y: 185.20471
+        width: 525.5864
+        height: 1481.8698
+      alignment: 9
+      pivot: {x: 0.49541572, y: 0.49821874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4847e4cc6d9fa94593d19a872b4a061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer2_11
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 151.9816
+        width: 17.999939
+        height: 18.998932
+      alignment: 9
+      pivot: {x: 0.50000507, y: 0.5009967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989754bf7e707764698bf0db6d660985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b8bafee1d0f4db8459c7d118245729d1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 636689326093949040
+  assetBundleName: 
+  assetBundleVariant: 

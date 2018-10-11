@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 40dc0e1f98293164c8dabcada621a99f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clothing atlas_0
+    21300002: clothing atlas_1
+    21300004: clothing atlas_2
+    21300006: clothing atlas_3
+    21300008: clothing atlas_4
+    21300010: clothing atlas_5
+    21300012: clothing atlas_6
+    21300014: clothing atlas_7
+    21300016: clothing atlas_8
+    21300018: clothing atlas_9
+    21300020: clothing atlas_10
+    21300022: clothing atlas_11
+    21300024: clothing atlas_12
+    21300026: clothing atlas_13
+    21300028: clothing atlas_14
+    21300030: clothing atlas_15
+    21300032: clothing atlas_16
+    21300034: clothing atlas_17
+    21300036: clothing atlas_18
+    21300038: clothing atlas_19
+    21300040: clothing atlas_20
+    21300042: clothing atlas_21
+    21300044: clothing atlas_22
+    21300046: clothing atlas_23
+    21300048: clothing atlas_24
+    21300050: clothing atlas_25
+    21300052: clothing atlas_26
+    21300054: clothing atlas_27
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clothing atlas_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3199.3154
+        width: 337.1988
+        height: 411.6416
+      alignment: 9
+      pivot: {x: 0.49673963, y: 0.49966964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9947ea1471c3464890387fb4f5f21a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 3346.102
+        width: 200.86597
+        height: 260.79883
+      alignment: 9
+      pivot: {x: 0.4978447, y: 0.49616095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d92f818875a314bb8a759682e45841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1216.0001
+        y: 2706.4207
+        width: 311.75
+        height: 1015.57935
+      alignment: 9
+      pivot: {x: 0.49719328, y: 0.50274664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc3e3c8d1ed2f4082f23ea4583638e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1527.0001
+        y: 3457.2605
+        width: 200.86584
+        height: 244.44238
+      alignment: 9
+      pivot: {x: 0.4953555, y: 0.5000759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73bc5574aabb544b85c6dde7f8d63dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_4
+      rect:
+        serializedVersion: 2
+        x: 2145.9531
+        y: 2798.4185
+        width: 526.2468
+        height: 923.58154
+      alignment: 9
+      pivot: {x: 0.49890444, y: 0.50139755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc9120dba329584584871f31dc4b7fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_5
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 3217.3115
+        width: 326.29224
+        height: 502.51074
+      alignment: 9
+      pivot: {x: 0.49648747, y: 0.5008619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9363ab57ab0ce848b01873d65c70f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_6
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 3319.2898
+        width: 209.95483
+        height: 373.47656
+      alignment: 9
+      pivot: {x: 0.49534345, y: 0.49992484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9264873623706b442b64676b2a5ec4b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_7
+      rect:
+        serializedVersion: 2
+        x: 181.00002
+        y: 2703.4216
+        width: 339.0166
+        height: 453.4414
+      alignment: 9
+      pivot: {x: 0.4970258, y: 0.50078875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b6b051a81246f47a797e8cd6f41562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_8
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2636.4358
+        width: 233.58594
+        height: 527.9541
+      alignment: 9
+      pivot: {x: 0.49446473, y: 0.5001651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ade0d2afd224458dbad1d38340ff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1883.5967
+        width: 775.7349
+        height: 738.7705
+      alignment: 9
+      pivot: {x: 0.49630356, y: 0.49934766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5010316f3c325f04a8e571b6b9c0f5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_10
+      rect:
+        serializedVersion: 2
+        x: 653.00006
+        y: 2378.491
+        width: 246.31018
+        height: 248.07715
+      alignment: 9
+      pivot: {x: 0.4953102, y: 0.4978654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26cad80008b7504ead4840993a51cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1935.5854
+        width: 564.42017
+        height: 720.5967
+      alignment: 9
+      pivot: {x: 0.49874192, y: 0.49877387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc0d07abe48564a869fbfe2866628d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1936.5851
+        width: 280.84802
+        height: 707.8751
+      alignment: 9
+      pivot: {x: 0.49493003, y: 0.49926132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d9da1783dd874894062da80ddaf5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_13
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2023.5667
+        width: 377.1897
+        height: 640.63184
+      alignment: 9
+      pivot: {x: 0.49709737, y: 0.49940243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec06afe79cef7e47a89e3417d133003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_14
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1743.6265
+        width: 504.4336
+        height: 809.64844
+      alignment: 9
+      pivot: {x: 0.49758777, y: 0.49944365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c145816a38a79c459d4a446bdd8c037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_15
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 2281.5117
+        width: 188
+        height: 253.5293
+      alignment: 9
+      pivot: {x: 0.51329917, y: 0.49891087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f972850725577f44e8b7fb62c6f0d59f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1485.6815
+        width: 168.14612
+        height: 411.64172
+      alignment: 9
+      pivot: {x: 0.4936183, y: 0.49877957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1be8c931f32cf419e89df603a75a58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_17
+      rect:
+        serializedVersion: 2
+        x: 2308.0002
+        y: 1338.713
+        width: 300.84326
+        height: 686.0664
+      alignment: 9
+      pivot: {x: 0.4985985, y: 0.50109893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b9e13bfa6e82b46ba9da6fbd445df7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_18
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 1202.742
+        width: 333.56323
+        height: 415.27637
+      alignment: 9
+      pivot: {x: 0.4961585, y: 0.49908462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27dfbb6c7a7ff04499868c574d164a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_19
+      rect:
+        serializedVersion: 2
+        x: 99.99999
+        y: 486.89496
+        width: 504.43378
+        height: 809.6484
+      alignment: 9
+      pivot: {x: 0.49758765, y: 0.4984942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f985205f981c6c46b11f91509a4cb1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_20
+      rect:
+        serializedVersion: 2
+        x: 627.00006
+        y: 1025.7798
+        width: 199.04816
+        height: 251.71191
+      alignment: 9
+      pivot: {x: 0.5023907, y: 0.49747434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f6c3c76a995c41b1c2f24b5a4c346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 438.90518
+        width: 504.43384
+        height: 807.83105
+      alignment: 9
+      pivot: {x: 0.498579, y: 0.49898404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df8d7182cfd614fa0f36f570033f28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 975.7905
+        width: 195.41272
+        height: 255.34668
+      alignment: 9
+      pivot: {x: 0.4963859, y: 0.49622527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b2ffdb2fd2774ab21dc6e6d196890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_23
+      rect:
+        serializedVersion: 2
+        x: 2295.9998
+        y: 709.8473
+        width: 348.1057
+        height: 511.59766
+      alignment: 9
+      pivot: {x: 0.49697617, y: 0.49873704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056d3075547bbb409cbbc9781526e45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_24
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 648.8603
+        width: 228.13257
+        height: 524.3193
+      alignment: 9
+      pivot: {x: 0.49532604, y: 0.49805477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb996dc9326bd4a8ae81b76a47bcfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_25
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 473.89767
+        width: 302.66113
+        height: 627.91016
+      alignment: 9
+      pivot: {x: 0.49725577, y: 0.4986419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b36fdf85e1a143ba04cc30793386f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_26
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 0
+        width: 280.84814
+        height: 668.3447
+      alignment: 9
+      pivot: {x: 0.4949294, y: 0.4952534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e495d5072287e94c8b2841abbba2241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clothing atlas_27
+      rect:
+        serializedVersion: 2
+        x: 3455.0002
+        y: 539.8836
+        width: 155.42139
+        height: 487.97162
+      alignment: 9
+      pivot: {x: 0.49542734, y: 0.49719387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2d470954fb214418e195b48b458a1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bf576398fc57d4a49b8231b8fd96de88
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 636687643146693854
+  assetBundleName: 
+  assetBundleVariant: 

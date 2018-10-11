@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RPGTALK/Demo/Scenes/3-TagsDemo.unity
+  isLoaded: 1
+  isActive: 1

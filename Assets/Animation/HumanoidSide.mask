@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HumanoidSide
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Mesh
+    m_Weight: 1
+  - m_Path: Mesh/SideHair
+    m_Weight: 1
+  - m_Path: Mesh/Hair
+    m_Weight: 1
+  - m_Path: Mesh/torso
+    m_Weight: 1
+  - m_Path: Mesh/ArmLeft
+    m_Weight: 1
+  - m_Path: Mesh/ArmRight
+    m_Weight: 1
+  - m_Path: Mesh/Head
+    m_Weight: 1
+  - m_Path: Mesh/LegL
+    m_Weight: 1
+  - m_Path: Mesh/LegR
+    m_Weight: 1
+  - m_Path: Mesh/skirt
+    m_Weight: 1
+  - m_Path: Mesh/shirt
+    m_Weight: 1
+  - m_Path: Mesh/Eye
+    m_Weight: 1
+  - m_Path: Bones
+    m_Weight: 1
+  - m_Path: Bones/Hips
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/SideHair
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/SideHair/SideHair
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/SideHair/SideHair/SideHair
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/SideHair/SideHair/SideHair/SideHair
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/Hair
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/Hair/Hair
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/Hair/Hair/Hair
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/armL
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/armL/New bone
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/armR
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/armR/New bone
+    m_Weight: 1
+  - m_Path: Bones/Hips/LegL
+    m_Weight: 1
+  - m_Path: Bones/Hips/LegL/New bone
+    m_Weight: 1
+  - m_Path: Bones/Hips/LegL/New bone/foot
+    m_Weight: 1
+  - m_Path: Bones/Hips/LegR
+    m_Weight: 1
+  - m_Path: Bones/Hips/LegR/New bone
+    m_Weight: 1
+  - m_Path: Bones/Hips/LegR/New bone/foot
+    m_Weight: 1
+  - m_Path: Bones/TempPlacement
+    m_Weight: 1

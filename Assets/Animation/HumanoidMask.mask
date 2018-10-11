@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HumanoidMask
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: BodySprites
+    m_Weight: 1
+  - m_Path: BodySprites/torso
+    m_Weight: 1
+  - m_Path: BodySprites/arm_left
+    m_Weight: 1
+  - m_Path: BodySprites/arm_right
+    m_Weight: 1
+  - m_Path: BodySprites/leg_left
+    m_Weight: 1
+  - m_Path: BodySprites/leg_right
+    m_Weight: 1
+  - m_Path: BodySprites/skirt
+    m_Weight: 1
+  - m_Path: BodySprites/Hero_Headv2
+    m_Weight: 1
+  - m_Path: BodySprites/Head_Side
+    m_Weight: 1
+  - m_Path: weapon
+    m_Weight: 1
+  - m_Path: Clothes
+    m_Weight: 1
+  - m_Path: Clothes/top
+    m_Weight: 1
+  - m_Path: Clothes/sleeve_left
+    m_Weight: 1
+  - m_Path: Clothes/sleeve_right
+    m_Weight: 1
+  - m_Path: Clothes/Ribbon2
+    m_Weight: 1
+  - m_Path: Clothes/Ribbon
+    m_Weight: 1
+  - m_Path: Bones
+    m_Weight: 1
+  - m_Path: Bones/Hips
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/Bun
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/Hair
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/Neck/Head/Hair (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/L_arm
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/L_arm/L_arm (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/L_arm/L_arm (1)/WeaponBone
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/R_arm
+    m_Weight: 1
+  - m_Path: Bones/Hips/Chest/R_arm/R_arm (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/Leg
+    m_Weight: 1
+  - m_Path: Bones/Hips/Leg/L_Leg (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/Leg/L_Leg (1)/L_Leg (2)
+    m_Weight: 1
+  - m_Path: Bones/Hips/Leg/R_Leg
+    m_Weight: 1
+  - m_Path: Bones/Hips/Leg/R_Leg/R_Leg (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/skirtBone
+    m_Weight: 1
+  - m_Path: Bones/Hips/skirtBone/skirtBone (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/skirtBone/skirtBone (1)/skirtBone (2)
+    m_Weight: 1
+  - m_Path: Bones/Hips/RibbonBone
+    m_Weight: 1
+  - m_Path: Bones/Hips/RibbonBone/New bone (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/RibbonBone/New bone (1)/New bone
+    m_Weight: 1
+  - m_Path: Bones/Hips/RibbonBone (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/RibbonBone (1)/New bone (1)
+    m_Weight: 1
+  - m_Path: Bones/Hips/RibbonBone (1)/New bone (1)/New bone
+    m_Weight: 1
+  - m_Path: Bones/Hips/Bow
+    m_Weight: 1
+  - m_Path: IK
+    m_Weight: 1
+  - m_Path: IK/r_arm
+    m_Weight: 1
+  - m_Path: IK/L_arm
+    m_Weight: 1
+  - m_Path: IK/L_Leg
+    m_Weight: 1
+  - m_Path: IK/R_leg
+    m_Weight: 1

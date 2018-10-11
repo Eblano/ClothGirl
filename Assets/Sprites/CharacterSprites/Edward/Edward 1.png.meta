@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 741fdd1316a604543adf7c777efdc75f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Edward 1_0
+    21300002: torso
+    21300004: arm
+    21300006: nose
+    21300008: Head
+    21300010: Edward 1_5
+    21300012: Edward 1_6
+    21300014: Edward 1_7
+    21300016: eye_close
+    21300018: Edward 1_9
+    21300020: Edward 1_10
+    21300022: blush
+    21300024: pants
+    21300026: head
+    21300028: mouth
+    21300030: moouth frown
+    21300032: eyebrows
+    21300034: Edward 1_17
+    21300036: Edward 1_18
+    21300038: eyes
+    21300040: hairtail
+    21300042: Eye
+    21300044: OpenEyes2
+    21300046: OpenEyes
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edward 1_0
+      rect:
+        serializedVersion: 2
+        x: 470.88306
+        y: 431.99997
+        width: 775.27734
+        height: 2044.3784
+      alignment: 9
+      pivot: {x: 0.49932715, y: 0.49966285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a65b8fecd4abe945badc223510cd4f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torso
+      rect:
+        serializedVersion: 2
+        x: 1374.6152
+        y: 1758.9104
+        width: 431.0996
+        height: 663.1721
+      alignment: 9
+      pivot: {x: 0.49845764, y: 0.49849743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b76e2a873f9c4ba07976423f75b11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arm
+      rect:
+        serializedVersion: 2
+        x: 1965.7498
+        y: 1686.6661
+        width: 195.28369
+        height: 779.2084
+      alignment: 9
+      pivot: {x: 0.4851928, y: 0.4964447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e8c761b2febc4a94611459221b7fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nose
+      rect:
+        serializedVersion: 2
+        x: 2390.8325
+        y: 2197.7317
+        width: 144.75195
+        height: 144.75195
+      alignment: 9
+      pivot: {x: 0.4881971, y: 0.48889366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b05fb8a013b74a8429a5becc64111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 2845.7788
+        y: 1888.7954
+        width: 492.86084
+        height: 659.42896
+      alignment: 9
+      pivot: {x: 0.49653202, y: 0.49771032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c9cc33716182a4081fe0df07fb6d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward 1_5
+      rect:
+        serializedVersion: 2
+        x: 2381.4136
+        y: 1995.0001
+        width: 117.97339
+        height: 56.999878
+      alignment: 9
+      pivot: {x: 0.5050836, y: 0.49999893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268298cc46a2cf41901079bf3e5216e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward 1_6
+      rect:
+        serializedVersion: 2
+        x: 2619.3552
+        y: 1956.9999
+        width: 116.65234
+        height: 84.86218
+      alignment: 9
+      pivot: {x: 0.49415872, y: 0.48902965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d4d6d0f2a96de4dbf1d59104b88e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward 1_7
+      rect:
+        serializedVersion: 2
+        x: 2375.415
+        y: 1903
+        width: 94.19922
+        height: 96.09131
+      alignment: 9
+      pivot: {x: 0.4945366, y: 0.48911813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a98c1230baa5458f004386e20bf8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye_close
+      rect:
+        serializedVersion: 2
+        x: 2596.3608
+        y: 1886
+        width: 116.65234
+        height: 99.83472
+      alignment: 9
+      pivot: {x: 0.50268304, y: 0.49081123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d0cd2a17d9cb1438bc03521f22df3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward 1_9
+      rect:
+        serializedVersion: 2
+        x: 243.74539
+        y: 876.24133
+        width: 197.15536
+        height: 893.37317
+      alignment: 9
+      pivot: {x: 0.4907531, y: 0.49784198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85c1a21fc4c4d6498df2d99cc512128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward 1_10
+      rect:
+        serializedVersion: 2
+        x: 2833.3025
+        y: 1682
+        width: 90.45703
+        height: 86.73364
+      alignment: 9
+      pivot: {x: 0.48860493, y: 0.49000737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157e26859911fe4f9b15444aa3d5e45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blush
+      rect:
+        serializedVersion: 2
+        x: 3094.2383
+        y: 1682
+        width: 99.8125
+        height: 84.86218
+      alignment: 9
+      pivot: {x: 0.5035614, y: 0.48902965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ce9caef875e74e9ee92ae776c606e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants
+      rect:
+        serializedVersion: 2
+        x: 1341.4989
+        y: 717.32336
+        width: 526.5488
+        height: 854.0707
+      alignment: 9
+      pivot: {x: 0.49948114, y: 0.49840915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb82d05d34a64d4cb83592e16c06dcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 1953.1698
+        y: 1014.8105
+        width: 779.2084
+        height: 635.09894
+      alignment: 9
+      pivot: {x: 0.498365, y: 0.49707142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e6f3eee009cea4aa770bf9d3a8508c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouth
+      rect:
+        serializedVersion: 2
+        x: 2918.799
+        y: 1454.3165
+        width: 107.3208
+        height: 129.77942
+      alignment: 9
+      pivot: {x: 0.49106205, y: 0.50611717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614b9502fcc7354bb984d59c7702ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moouth frown
+      rect:
+        serializedVersion: 2
+        x: 3133.6887
+        y: 1476.8351
+        width: 114.806885
+        height: 68.01819
+      alignment: 9
+      pivot: {x: 0.5035524, y: 0.48023978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464b0336e6f2e504b990e0c878e50cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyebrows
+      rect:
+        serializedVersion: 2
+        x: 2903.2854
+        y: 1160
+        width: 137.23438
+        height: 77.375854
+      alignment: 9
+      pivot: {x: 0.49706823, y: 0.49110925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847c4b0703918847ae75c887c9c6f42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward 1_17
+      rect:
+        serializedVersion: 2
+        x: 3092.239
+        y: 1126
+        width: 157.8164
+        height: 116.67847
+      alignment: 9
+      pivot: {x: 0.50223696, y: 0.49280837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6257a4b915a20904eb8bd4fae5546aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward 1_18
+      rect:
+        serializedVersion: 2
+        x: 2901.2856
+        y: 992.99994
+        width: 122.265625
+        height: 126.036316
+      alignment: 9
+      pivot: {x: 0.4965775, y: 0.4958893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383298eee3168a0419af7bdf62d4c011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyes
+      rect:
+        serializedVersion: 2
+        x: 3107.2354
+        y: 981.99994
+        width: 142.84766
+        height: 129.77948
+      alignment: 9
+      pivot: {x: 0.49888566, y: 0.4931447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad1c403374e79c4faca56f8b64707e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairtail
+      rect:
+        serializedVersion: 2
+        x: 2106.0342
+        y: 760.2777
+        width: 163.46753
+        height: 165.33893
+      alignment: 9
+      pivot: {x: 0.4433041, y: 0.48822314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5c21861ce7b6b4d8e079b6112406ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye
+      rect:
+        serializedVersion: 2
+        x: 2376.218
+        y: 1901.4921
+        width: 127.90796
+        height: 154.10974
+      alignment: 9
+      pivot: {x: 0.4556537, y: 0.51591766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53fe9ea169996b4bb92c7f5cbdc244d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenEyes2
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 963
+        width: 164
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd645cb39ca4f4f823bef1a42431c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenEyes
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 947
+        width: 205
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c6ce23f39e5af45a4d68c5d8686098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be59883863f284d4c857083d1b01cb42
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 636690845033057004
+  assetBundleName: 
+  assetBundleVariant: 

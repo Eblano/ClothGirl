@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - interactable
+  - Blade
+  - Wall
+  - BackgroundElements
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Blade
+  - IgnorePlayer
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: VeryFarBackground
+    uniqueID: 113942269
+    locked: 0
+  - name: background
+    uniqueID: 3967463455
+    locked: 0
+  - name: midground
+    uniqueID: 1026386073
+    locked: 0
+  - name: midDecoration
+    uniqueID: 4256291295
+    locked: 0
+  - name: EnemyBack
+    uniqueID: 1037716819
+    locked: 0
+  - name: Enemy
+    uniqueID: 4086293837
+    locked: 0
+  - name: EnemyAccesories
+    uniqueID: 1029337841
+    locked: 0
+  - name: Player
+    uniqueID: 4015593289
+    locked: 0
+  - name: PlayerAccesories
+    uniqueID: 3810487493
+    locked: 0
+  - name: foreground
+    uniqueID: 2632607209
+    locked: 0
